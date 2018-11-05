@@ -87,7 +87,7 @@ cc.Class({
         cc.pgy.cfg.isFirst = true; // 第一次（决定是否显示新手引导）
         cc.pgy.cfg.audio = false; // 是否需要声音
         cc.pgy.cfg.actCount = 6;   // 使用几幕
-        cc.pgy.cfg.type = "cmb"; // cmb-招行
+        cc.pgy.cfg.type = "dd"; // cmb-招行
 
         // 用户数据
         cc.pgy.data = {};

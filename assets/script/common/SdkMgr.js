@@ -14,9 +14,6 @@ cc.Class({
     properties: {
         // 测试服
         host:"http://10.0.8.70:8082",
-        
-        // // 正式服
-        // host: "https://miaomiao.cmb.wanzhuanxiong.com",
 
         // 是否成功初始化
         init: false,
@@ -31,8 +28,7 @@ cc.Class({
         startTimeStamp: 0,
 
         // 秘钥
-        // secretKey:"abcd1234",
-        secretKey: "afdbe67f259445299af57159dda4ae31"
+        secretKey: "1111"
     },
 
     // LIFE-CYCLE CALLBACKS:
