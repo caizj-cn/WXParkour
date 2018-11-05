@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "1ed67a18-38f3-4a51-9700-9bbc87b4fef0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "img_miaomiaokuaipao_01": {
+      "ver": "1.0.3",
+      "uuid": "cbca7fde-f93f-41bc-b59e-cb7e17f72779",
+      "rawTextureUuid": "1ed67a18-38f3-4a51-9700-9bbc87b4fef0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -39,
+      "trimX": 0,
+      "trimY": 78,
+      "width": 1280,
+      "height": 642,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
